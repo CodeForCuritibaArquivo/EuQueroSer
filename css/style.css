@@ -8,11 +8,17 @@ Cinza #3e4249
 
 /* CSS geral*/
 body {
-	background-image: url(.../img/tile.jpg) top left repeat;
+	margin-top: 40px;
+	background-image: url('...img/tile.jpg') top left repeat;
 	font-size: 16px;
 	font-family: 'Raleway', 'Lato', sans-serif;
-}
+	text-rendering: optimizeLegibility;
 
+}
+.lead {
+	margin-top: 30%;
+	box-shadow: 10px solid;
+}
 
 
 .red {
@@ -40,3 +46,19 @@ h4 {
 	font-size: 18px;
 }
 
+
+/*==============================HERO==================*/
+
+.hero {
+background: url('../img/hero.jpg') 50% 0 repeat fixed; 
+min-height: 500px;
+padding: 40px 0;
+text-rendering: optimizeLegibility;
+
+}
+
+.tile {
+
+	font-size: 102px;
+	padding: 10px;
+}
