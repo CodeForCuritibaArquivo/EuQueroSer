@@ -27,7 +27,16 @@ color: red;
 button, input, .btn, a.btn {
 	font-size: 16px;
 }
+.thumbnail img {
 
+	width: 60%;
+}
+
+.thumbnail {
+	margin-top: 30%;
+	padding: 5px;
+	border-radius: 0px;
+}
 
 .red-bold {
 
