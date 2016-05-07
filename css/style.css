@@ -1,0 +1,42 @@
+
+/** referencia da paleta de cores
+verde: #79b044;
+Rosado: #dd5638;
+Cinza #3e4249
+**/
+
+
+/* CSS geral*/
+body {
+	background-image: url(.../img/tile.jpg) top left repeat;
+	font-size: 16px;
+	font-family: 'Raleway', 'Lato', sans-serif;
+}
+
+
+
+.red {
+color: red;
+}
+
+.red-bold {
+
+	color: #c0392b;
+	font-weight: 700;
+}
+h1 {
+	font-size: 3em;
+}
+
+h1, h2 {
+	margin: 0 0 40px;
+}
+
+h3 {
+	margin: 20px 0;
+}
+
+h4 {
+	font-size: 18px;
+}
+
